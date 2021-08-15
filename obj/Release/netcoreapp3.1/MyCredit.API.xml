@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MyCredit.API</name>
+    </assembly>
+    <members>
+        <member name="M:MyCredit.API.Controllers.CustomersController.Post(System.Int32)">
+            <summary>
+            Retorna nome do cliente dado o ID
+            </summary>
+            <remarks>
+            <para>
+            	
+            </para>
+            <![CDATA[ A lista é composta por:  </br>
+            <b><font color=#FF0000>1 - João</font></b> </br>
+            <b><font color=#FF0000>2 - Maria</font></b> </br>
+            <b><font color=#FF0000>3 - Ana</font></b> </br>
+            ]]>
+            
+            <para>
+            </para>
+            
+            </remarks>
+            <returns>nome do cliente</returns>
+        </member>
+        <member name="M:MyCredit.API.Controllers.QuotasController.Post(MyCredit.API.Model.Quota)">
+             <summary>
+             Inserir valor, parcelas e juros
+             </summary>
+             <remarks>
+             <para>
+            		
+             </para>
+            	<![CDATA[ Exemplo:  </br>
+            	
+             {
+            		 "value": 150,
+            		 "quota": 10,
+            		 "rate": 5
+            }
+             ]]>
+            	
+             
+             </remarks>
+             <returns>Valor total a ser pago</returns>
+        </member>
+    </members>
+</doc>
