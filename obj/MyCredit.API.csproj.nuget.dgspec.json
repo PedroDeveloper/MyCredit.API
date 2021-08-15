@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\testes\\Feijones.API\\MyCredit.API.csproj": {}
+    "E:\\testes\\MyCredit.API\\MyCredit.API.csproj": {}
   },
   "projects": {
-    "E:\\testes\\Feijones.API\\MyCredit.API.csproj": {
+    "E:\\testes\\MyCredit.API\\MyCredit.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\testes\\Feijones.API\\MyCredit.API.csproj",
+        "projectUniqueName": "E:\\testes\\MyCredit.API\\MyCredit.API.csproj",
         "projectName": "MyCredit.API",
-        "projectPath": "E:\\testes\\Feijones.API\\MyCredit.API.csproj",
+        "projectPath": "E:\\testes\\MyCredit.API\\MyCredit.API.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "E:\\testes\\Feijones.API\\obj\\",
+        "outputPath": "E:\\testes\\MyCredit.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",

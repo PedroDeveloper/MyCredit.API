@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zIjg7wi9BrqeWg3KwELmiqlkqXpD9fjwr/fSFki9qBNBxSWeBYe/BulhyxTsSti1p3gGsjTtncXvqlhwzd3Xzg==",
+  "dgSpecHash": "WQVVeojdLSgPjF4aDeXf8ucOi5Y2U31EAU2Dc+KxMs/m7JKu02kyfqfwyW39e++ud8y8NCpiA2RjCIWeXUeDOw==",
   "success": true,
-  "projectFilePath": "E:\\testes\\Feijones.API\\MyCredit.API.csproj",
+  "projectFilePath": "E:\\testes\\MyCredit.API\\MyCredit.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Pedro\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

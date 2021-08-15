@@ -45,10 +45,10 @@ namespace MyCredit.API.Controllers
 		/// </remarks>
 		/// <returns>nome do cliente</returns>
 
-		[HttpPost("{id}")]
+		[HttpGet("{id}")]
 		[ProducesResponseType(typeof(Customer),StatusCodes.Status200OK)]
 		[ProducesResponseType(StatusCodes.Status500InternalServerError)]
-		public IActionResult Post(int id)
+		public IActionResult Get(int id)
 		{
 			CustomersBO customersBO;
 			ObjectResult response;

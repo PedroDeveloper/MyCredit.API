@@ -7,7 +7,7 @@
     <ActiveDebugProfile>Cliente.API</ActiveDebugProfile>
     <Controller_SelectedScaffolderID>ApiControllerEmptyScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
-    <NameOfLastUsedPublishProfile>E:\testes\Feijones.API\Properties\PublishProfiles\desafiomycreditapi - Web Deploy.pubxml</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>E:\testes\MyCredit.API\Properties\PublishProfiles\desafiomycreditapi - FTP.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
